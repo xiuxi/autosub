@@ -1,6 +1,7 @@
+<pre>
 pip install git+https：//github.com/BingLingGroup/autosub.git@origin 可用
 pip3 install git+https：//github.com/BingLingGroup/autosub.git@origin 可用
-
+</pre>
 
 
 
