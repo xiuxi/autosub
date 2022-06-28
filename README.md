@@ -1,3 +1,9 @@
+pip install git+https：//github.com/BingLingGroup/autosub.git@origin 可用
+pip3 install git+https：//github.com/BingLingGroup/autosub.git@origin 可用
+
+
+
+
 # Autosub
 
 <escape><a href="https://travis-ci.org/BingLingGroup/autosub"><img src="https://travis-ci.org/BingLingGroup/autosub.svg?branch=alpha"></img></a> <a href="https://www.gnu.org/licenses/gpl-2.0"><img src="https://img.shields.io/badge/license-GPL--2.0-orange.svg"></img></a></escape>
